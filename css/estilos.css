@@ -3,12 +3,15 @@ body
     text-align: center;
     font-family: "Arial";
     color: #333;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -16,5 +19,27 @@ body
 
 #containor h1
 {
-    font-size: 20px;
+    font-size: 15px;
+}
+
+#cabecera
+{
+    background: #33A;
+    color: #FFF;
+    box-shadow: opx 2px 50px 0px rgba(0, 0, 0, 0.666);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    font-weight: bold;
+    padding: 1em 0 0 0;
+    font-size: 0.8em;
+}
+
+#post
+{
+    padding: 20px;
 }
