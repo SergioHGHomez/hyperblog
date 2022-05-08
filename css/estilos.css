@@ -24,12 +24,17 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: #000;
     color: #FFF;
     box-shadow: opx 2px 50px 0px rgba(0, 0, 0, 0.666);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
