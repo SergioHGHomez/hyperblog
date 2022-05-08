@@ -43,3 +43,12 @@ body
 {
     padding: 20px;
 }
+
+#pie
+{
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+    background: #333;
+    color: whitesmoke;
+}
