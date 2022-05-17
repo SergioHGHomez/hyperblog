@@ -24,12 +24,13 @@ body
 
 #cabecera
 {
-    background: #000;
+    background: #057;
     color: #FFF;
     box-shadow: opx 2px 50px 0px rgba(0, 0, 0, 0.666);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    font-size: 30px;
 }
 #cabecera #logo
 {
@@ -51,7 +52,8 @@ body
 
 #imgPlatzi
 {
-    padding-left: 100px;
+    width: 600px;
+    position:relative;
     vertical-align: middle;
 }
 
